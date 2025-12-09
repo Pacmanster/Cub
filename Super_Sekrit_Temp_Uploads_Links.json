@@ -1,0 +1,16 @@
+{
+  "title": "Super Sekrit Temp Uploads Links",
+  "description": "\"Don't let the feds see this link...\"",
+  "artist": "Varies",
+  "author": "Varies",
+  "cover": "https://cdn.imgchest.com/files/1dee0ea39a9e.jpg",
+  "chapters": {
+    "1": {
+      "title": "",
+      "last_updated": "1765285991",
+      "groups": {
+        "Shh...": "/proxy/api/imgchest/chapter/bp45o3rzg75"
+      }
+    }
+  }
+}
